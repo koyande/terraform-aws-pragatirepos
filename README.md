@@ -1,1 +1,1 @@
- terraform-aws-pragatirepos
+ terraform-aws-repo
